@@ -16,7 +16,7 @@ for i in range(1, AMOUNT):
     dic = request.json()
     for entry in dic['ratings']:
         count += 1
-        FILE.write(str(count) + ".")
+        FILE.write(str(count) + ". ")
         FILE.write(entry['crComments'])
         FILE.write("\n\n")
 

@@ -18,12 +18,11 @@ while i <= TOTAL:
     data = BeautifulSoup(request.text, "html.parser")
     for review in data.find_all("p", {"itemprop": "description"}):
         count += 1
-        FILE.write(str(count) + ".")
+        FILE.write(str(count) + ". ")
         FILE.write(review.get_text().encode('utf-8'))
         FILE.write("\n\n")
 
     i += INCREMENT
-    print i
 
 FILE.write("The count is:" + str(count))
 FILE.close()
