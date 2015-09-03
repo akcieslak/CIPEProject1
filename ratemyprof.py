@@ -1,22 +1,25 @@
+"""
+scrape usf related comments from ratemyprofessors.com
+"""
 import requests
 
 AMOUNT = 9
 
-f = open('rate', 'w')
+FILE = open('rate', 'w')
 count = 0
 
 
 for i in range(1, AMOUNT):
-    request = requests.get("http://www.ratemyprofessors.com/campusrating/pagi" +
-                           "natecampusRatings?page=" + str(i) + "&sid=1600")
+    request = requests.get("http://www.ratemyprofessors.com/campusrating/pag" +
+                           "inatecampusRatings?page=" + str(i) + "&sid=1600")
 
     dic = request.json()
     for entry in dic['ratings']:
         count += 1
-        f.write(str(count) + ".")
-        f.write(entry['crComments'])
-        f.write("\n\n")
+        FILE.write(str(count) + ".")
+        FILE.write(entry['crComments'])
+        FILE.write("\n\n")
 
 
-f.write("The count is: " + str(count))
-f.close
+FILE.write("The count is: " + str(count))
+FILE.close
