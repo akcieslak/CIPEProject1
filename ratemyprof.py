@@ -43,14 +43,6 @@ for line in d:
             r.write(word3 + " ")
         r.write("\n\n")
 
-##    elif ": " in line:
-##        for word in line.split():
-##            word1 = word.replace('"', "")
-##            word2 = word1.replace(":", ",")
-##            r.write(word2)
-
-
-
 
 r.write("count: " + str(count))
 d.close()
