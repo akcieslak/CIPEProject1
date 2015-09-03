@@ -1,13 +1,9 @@
-"""
-test comment
-"""
-
-import json
 import requests
 from bs4 import BeautifulSoup
 
 AMOUNT = 9
 # f = open('draft', 'w')
+
 
 # count = 0
 COMMENTS = []
@@ -32,7 +28,6 @@ print len(COMMENTS)
 #     for c in comments:
 #         f.write(c)
 
-# f.close()
 
 # d = open('draft', 'r')
 # r = open('rate', 'w')
@@ -45,6 +40,7 @@ print len(COMMENTS)
 #             word3 = word2.replace(":", '')
 #             r.write(word3 + " ")
 #         r.write("\n\n")
+
 
 
 # r.write("count: " + str(count))
