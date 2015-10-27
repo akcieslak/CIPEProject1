@@ -14,7 +14,7 @@ count = 0
 while i <= TOTAL:
     response = requests.get("http://talk.collegeconfidential.com/university-san" +
                             "-francisco/p" + str(i) + "/")
-    data = BeautifulSoup(response.content)
+    data = BeautifulSoup(response.content, "html.parser")
 
 
     for page in data.find_all("a", class_="Title"):
@@ -22,7 +22,7 @@ while i <= TOTAL:
 
 
         pageResponse = requests.get(link)
-        pageData= BeautifulSoup(pageResponse.content)
+        pageData= BeautifulSoup(pageResponse.content, "html.parser")
 
         for review in pageData.find_all("div", {"class":"Message"}):
             count += 1
@@ -31,6 +31,7 @@ while i <= TOTAL:
             FILE.write("\n\n")
 
     i += 1
+
 
 FILE.write("The count is: " + str(count))
 FILE.close()

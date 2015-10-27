@@ -1,6 +1,7 @@
 """
 scrape usf related comments from ratemyprofessors.com
 """
+
 import requests
 
 AMOUNT = 9
@@ -20,6 +21,7 @@ for i in range(1, AMOUNT):
         FILE.write(entry['crComments'])
         FILE.write("\n\n")
 
-
+        
+       
 FILE.write("The count is: " + str(count))
-FILE.close
+FILE.close()
