@@ -27,20 +27,17 @@ sentences = text.split(".")
 
 
 
-def findWord(go):
+def findWord(go, writer):
     while go == True:
         word = raw_input("Please enter word: ")
         if word == "exit":
             go = False
             break
         if word in DICTIONARY:
-            print "Avg polarity:"  + str(DICTIONARY[word].getAvgPol())
-            print "Avg Subjectivity: " + str(DICTIONARY[word].getAvgSub())
-        else:
-            print "Sorry, not in the Dictionary"
+            writer.writerow([word, DICTIONARY[word].getAvgPol(), DICTIONARY[word].getAvgSub()])
     return 
 
-def findGroup(go):
+def findGroup(go, writer):
     while go == True:
         group = raw_input("Please enter list: ")
         if group == "exit":
@@ -62,8 +59,8 @@ def findGroup(go):
         else:
             avgPol = pol/(count)
             avgSub = sub/(count)
-        print "Avg polarity:"  + str(avgPol)
-        print "Avg Subjectivity: " + str(avgSub)
+        writer.writerow([group, avgPol, avgSub])
+
     return 
         
 
@@ -178,7 +175,7 @@ while j < SIZE:
 
 
 k = 0
-with open('output2.csv', 'wb') as c:
+with open('output.csv', 'wb') as c:
     writer = csv.writer(c)
     writer.writerow(['Word', 'Count', 'Sentence', 'Splice', 'Polarity', 'Subjectivity', 'Avg Polarity', 'Avg Subjectivity', 'Location'])
     while k < SIZE:
@@ -199,8 +196,11 @@ with open('output2.csv', 'wb') as c:
 
         writer.writerow([" ", " ", " ", " ", " ", " ", str(polarSum/topWords[k].getCount()), str(subjectSum/topWords[k].getCount()), str(topWords[k].getSentenceArray())])
         k += 1
-    
+c.close()
 
-findWord(True)
-findGroup(True)
+with open('findOutput.csv', 'wb') as k:
+    writer = csv.writer(k)
+    writer.writerow(['Word','Average Polarity', 'Average Subjectivity'])
+    findWord(True, writer)
+    findGroup(True, writer)
 
