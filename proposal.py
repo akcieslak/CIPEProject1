@@ -39,7 +39,7 @@ def findWord(go, writer):
 
 def findGroup(go, writer):
     while go == True:
-        group = raw_input("Please enter list: ")
+        group = raw_input("Please enter word/list: ")
         if group == "exit":
             go = False
             break
@@ -49,7 +49,6 @@ def findGroup(go, writer):
         count = 0
         for word in group:
             if word in DICTIONARY:
-                print "here"
                 count += 1
                 pol += DICTIONARY[word].getAvgPol()
                 sub += DICTIONARY[word].getAvgSub()
@@ -80,15 +79,15 @@ def getSplice(sentenceTuple):
     wordIndex = sentenceTuple[1] 
     sentence = sentences[sentenceIndex]
     sentence = sentence.split()
-    lengthS = len(sentence)
-    if (lengthS <= 5):
+    lengthS = len(sentence) - 1
+    if (lengthS <= 4):
         splice = sentence
-    elif (lengthS - wordIndex >= 5 and wordIndex - 0 >= 5):
-        splice = sentence[wordIndex - 5 : wordIndex + 5]
-    elif (lengthS - wordIndex >= 5 and wordIndex - 0 < 5):
+    elif (lengthS - wordIndex >= 4 and wordIndex - 0 >= 4):
+        splice = sentence[wordIndex - 4 : wordIndex + 5]
+    elif (lengthS - wordIndex >= 4 and wordIndex - 0 < 4):
         splice = sentence[0 : wordIndex + 5]
     else:
-        splice = sentence[wordIndex - 5 : lengthS - 1]
+        splice = sentence[wordIndex - 4 : lengthS + 1]
 
     splice = makeString(splice)
     return str(splice)
@@ -201,6 +200,6 @@ c.close()
 with open('findOutput.csv', 'wb') as k:
     writer = csv.writer(k)
     writer.writerow(['Word','Average Polarity', 'Average Subjectivity'])
-    findWord(True, writer)
+    #findWord(True, writer)
     findGroup(True, writer)
 
