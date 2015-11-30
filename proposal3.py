@@ -1,15 +1,15 @@
-#Proposal1 - the comparison between polarity of the splice (4 behind and 4 before) and the whole sentence
-
+#Proposal3 - using the exp equation with the original textblob from Proposal1
 import enchant
 import nltk
 from nltk.corpus import stopwords
-from textblob.classifiers import NaiveBayesClassifier
 import operator
 import re
 from textblob import TextBlob
+from textblob.sentiments import NaiveBayesAnalyzer
 import string
 import csv
 import en
+import math
 
 SIZE = 50
 d = enchant.Dict("en_US")
@@ -17,52 +17,14 @@ f = open('allText.txt', 'r')
 CACHEDSTOPWORDS = stopwords.words('english')
 PUNCTUATION = string.maketrans(string.punctuation, ' ' * len(string.punctuation))
 
-
 DICTIONARY = {}
 POSITION = 0
-
+           
 
 splitFile = []
 text = f.read()
-#sentences = re.split(r' *[\.\?!][\'"\)\]]* *', text)
 sentences = text.split(".")
 
-
-
-def findWord(go, writer):
-    while go == True:
-        word = raw_input("Please enter word: ")
-        if word == "exit":
-            go = False
-            break
-        if word in DICTIONARY:
-            writer.writerow([word, DICTIONARY[word].getAvgPol(), DICTIONARY[word].getAvgSub()])
-    return 
-
-def findGroup(go, writer):
-    while go == True:
-        group = raw_input("Please enter word/list: ")
-        if group == "exit":
-            go = False
-            break
-        group = group.split()
-        pol = 0
-        sub = 0
-        count = 0
-        for word in group:
-            if word in DICTIONARY:
-                count += 1
-                pol += DICTIONARY[word].getAvgPol()
-                sub += DICTIONARY[word].getAvgSub()
-        if count == 0:
-            avgPol = 0
-            avgSub = 0
-        else:
-            avgPol = pol/(count)
-            avgSub = sub/(count)
-        writer.writerow([group, avgPol, avgSub])
-
-    return 
         
 
 def makeString(part):
@@ -76,23 +38,29 @@ def partOfSpeech(text):
     return nltk.pos_tag(tokenize)
 
 
-def getSplice(sentenceTuple): 
-    sentenceIndex = sentenceTuple[0]
-    wordIndex = sentenceTuple[1] 
-    sentence = sentences[sentenceIndex]
+def getWeightedPol(sentence, n, index):
     sentence = sentence.split()
     lengthS = len(sentence) - 1
-    if (lengthS <= 4):
-        splice = sentence
-    elif (lengthS - wordIndex >= 4 and wordIndex - 0 >= 4):
-        splice = sentence[wordIndex - 4 : wordIndex + 5]
-    elif (lengthS - wordIndex >= 4 and wordIndex - 0 < 4):
-        splice = sentence[0 : wordIndex + 5]
-    else:
-        splice = sentence[wordIndex - 4 : lengthS + 1]
+    
 
-    splice = makeString(splice)
-    return str(splice)
+    polSum = 0 
+    i = 1
+    while i <= n and i <= lengthS:
+        pol = 0
+        try: 
+            splice = makeString(sentence[index - i : index + i])
+            pol = TextBlob(splice.decode('utf-8')).polarity
+        except Exception:
+            pass
+            print splice
+            break
+        work = math.exp((-i/3)) * pol 
+        polSum += work
+        i += 1
+        
+    return polSum
+    
+    
 
 class Value:
     def __init__ (self, word, position, sentenceNum, sentenceInd):
@@ -176,36 +144,25 @@ while j < SIZE:
 
 
 k = 0
-with open('output.csv', 'wb') as c:
+with open('proposal3.csv', 'wb') as c:
     writer = csv.writer(c)
-    writer.writerow(['Word', 'Count', 'Sentence', 'Splice', 'Polarity', 'Sentence Pol', 'Subjectivity', 'Avg Polarity', 'Avg Whole Pol', 'Avg Subjectivity','Location'])
+    writer.writerow(['Word', 'Count', 'Sentence', 'Polarity', 'Avg Polarity'])
     while k < SIZE:
         polarSum = 0
-        subjectSum = 0
-        wholeSum = 0
 
         for spot in topWords[k].getSentenceArray():
-            splice = getSplice(spot)
-            whole = sentences[spot[0]]
-            wholePol = TextBlob(whole.decode('utf-8')).polarity
-            polarity = TextBlob(splice.decode('utf-8')).polarity
-            subjectivity = TextBlob(splice.decode('utf-8')).subjectivity
-            polarSum += polarity
-            subjectSum += subjectivity
-            wholeSum += wholePol
-            writer.writerow([str(topWords[k].getWord()), str(topWords[k].getCount()), sentences[spot[0]], str(splice), str(polarity), str(wholePol), str(subjectivity)])
-
+            index = spot[1] #This will give the sentence index
+            sentence = sentences[spot[0]]
+            pol = getWeightedPol(sentence, 5, index)
+            
+            polarSum += pol
+            writer.writerow([str(topWords[k].getWord()), str(topWords[k].getCount()), sentences[spot[0]], str(pol)])
 
         topWords[k].setAvgPol(polarSum/topWords[k].getCount())
-        topWords[k].setAvgSub(subjectSum/topWords[k].getCount())
 
-        writer.writerow([" ", " ", " ", " ", " ", " ", " ", str(polarSum/topWords[k].getCount()),
-                         str(wholeSum/topWords[k].getCount()), str(subjectSum/topWords[k].getCount()), str(topWords[k].getSentenceArray())])
+        writer.writerow([" ", " ", " ", " ", str(polarSum/topWords[k].getCount())])
         k += 1
+        
 c.close()
 
-with open('proposal1.csv', 'wb') as k:
-    writer = csv.writer(k)
-    writer.writerow(['Word','Average Polarity', 'Average Subjectivity'])
-    findGroup(True, writer)
 
