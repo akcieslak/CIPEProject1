@@ -1,0 +1,804 @@
+Word,Count,Sentence,Classification,Polarity Pos,Polarity Neg,Avg Polarity
+student,728, Beautiful campus & with a stellar location but is a small campus w a dismal student center with little social interaction,pos,0.8483277100165683,0.15167228998343027
+student,728," Small, private school, classes are definitely small and more focused, and a very diverse student population",pos,0.9794978321969702,0.020502167803028132
+student,728," It's everything you'd expect from a Jesuit university in the center of San Francisco: Social justice is the main priority, the environment is respectful of all, the student body is 67% minority students, and the coursework is demanding yet extraordinarily fufilling",pos,0.9977432723380321,0.002256727661969808
+student,728," It's everything you'd expect from a Jesuit university in the center of San Francisco: Social justice is the main priority, the environment is respectful of all, the student body is 67% minority students, and the coursework is demanding yet extraordinarily fufilling",pos,0.9977432723380321,0.002256727661969808
+student,728," Now my two-time alma mater, I will miss being a student at this University",pos,0.7259585597828468,0.2740414402171521
+student,728, Great cultural interactions here with students from across the world,pos,0.9300625442072874,0.06993745579271356
+student,728,Posting this as I know students in far off countries seek info to make critical life decisions online,pos,0.9843437593157364,0.015656240684262926
+student,728,"When I visited, it was very warm and there were lots of students enjoying the outdoors",pos,0.8801948335684411,0.11980516643155642
+student,728,"  I was particularly glad to see an ethnically diverse student population, not something you always find at other universities",pos,0.8882346230110321,0.11176537698896803
+student,728," As much money as they make off of us, their students, you think they could funnel a little more into hiring better staff",pos,0.8283417145416703,0.1716582854583316
+student,728,"  When I called the school and spoke with Donna, she stated that many students have phoned and she has had to tell them all that they are (as I am) missing two required courses and that it was our responsibility, as students, to take those required courses at another college, as USF does not offer them",pos,0.8379881344302669,0.16201186556973507
+student,728,"  When I called the school and spoke with Donna, she stated that many students have phoned and she has had to tell them all that they are (as I am) missing two required courses and that it was our responsibility, as students, to take those required courses at another college, as USF does not offer them",pos,0.8379881344302669,0.16201186556973507
+student,728," I love USF, personally I have never been in an educational environment, where every single student you come across wants to learn and has so much to offer",pos,0.9634110305957428,0.03658896940425662
+student,728, There were a lot of international students in my classes,pos,0.6464209799600101,0.35357902003998953
+student,728," They ""like to save that money for incoming students",pos,0.6784552810672093,0.3215447189327901
+student,728, I am a prospective transfer student hoping to attend the university! I attended the transfer info session and campus tour,pos,0.9756016889448256,0.024398311055172057
+student,728, I have to say I was amazed in the environment and resources that the university provides for the students,pos,0.7190182342907354,0.28098176570926475
+student,728, I am so very pleased to report that our student adviser has been replaced! Night to day,pos,0.842027795991782,0.15797220400821707
+student,728, Maybe USF received candid feedback about students who didn't sense they were liked,pos,0.6502529442568327,0.3497470557431687
+student,728, I've noticed a huge change in the way staff and admin treats students,pos,0.9585304667092368,0.04146953329076215
+student,728," It seems that when they drop the ball, it is the fault of the student no one else",neg,0.33108479552491055,0.6689152044750897
+student,728, The school stresses academics but most of the students I interacted with did not have a clue,pos,0.7253070143994714,0.2746929856005267
+student,728," In the end, USF seems like a money mill that is concerned with its bottom line and gaining more money by misleading students with it's feel good tag lines",pos,0.9688275047772155,0.03117249522278469
+student,728, I WOULD NOT be able to attend this crazy great school if it weren't for the generous asses in charge handing out grants to the students who could use them,pos,0.9110346210471222,0.08896537895287304
+student,728," Overpriced food, beautiful architecture, good professors/researchers, small student/teacher ratio, somewhat inflated tuition, and a strong curriculum",pos,0.8594013489048635,0.14059865109513653
+student,728,Awesome professors and students,pos,0.7950160771704191,0.20498392282958175
+student,728,  Students get a lot of attention at USF,pos,0.6927288748542307,0.3072711251457698
+student,728," I'll confess, USF is full of stylish, cultured, well-mannered students",pos,0.5270175775957782,0.4729824224042222
+student,728," The Assistant Dean at the School of Management is anything but a sweetheart and she can make life a bitch, but everybody else is quite helpful and dedicated to the students' well-being",pos,0.9092650584911278,0.09073494150886743
+student,728," I must admit, USF was my third choice behind Cal (my dream school who rejected my application) and Arizona State which I knew nothing about other than it was located in a desert and the students were known to party",pos,0.9995151242261182,0.00048487577388417854
+student,728," As a transfer student from a small junior college, I was seeking to finish my education at a larger school",pos,0.9672786795135787,0.03272132048642173
+student,728," He also helped facilitate the process of making me ""GE Certified"", which means that any junior college transfer student who comes in with an AA degree will not have to go back and take additional required lower division coursework",pos,0.8550779854253296,0.14492201457466589
+student,728," Here's the good, the bad, and the ugly:The Good:- Professors: Great student to professor ratio",neg,0.3596425396794781,0.640357460320522
+student,728, A lot of state universities and UCs hold classes with nearly a hundred students,pos,0.6748683502026287,0.32513164979737
+student,728, The highest number of students in any of my classes never surpassed 40-45,pos,0.7298743892436087,0.2701256107563906
+student,728, Having fewer students per professor allows the professors to actually pay attention to the student's progress and learn their strengths & weaknesses,pos,0.9992442771819212,0.0007557228180822793
+student,728, Having fewer students per professor allows the professors to actually pay attention to the student's progress and learn their strengths & weaknesses,pos,0.9992442771819212,0.0007557228180822793
+student,728," Professors hold ""Office Hours"" to give students the opportunity to see them for help when they're struggling in class",pos,0.6812205658368062,0.31877943416319526
+student,728," Believe me, most of these professors give a sh*t about their students",pos,0.668134161306306,0.3318658386936931
+student,728, - Location: Being in the heart of the city gives students the opportunity to explore the city beyond touristy attractions,pos,0.9769187388266558,0.023081261173345257
+student,728," Of course, it all depends on how much a student wants to be challenged since they register for the classes of their choice",neg,0.2698987266103843,0.7301012733896152
+student,728," Professors take attendance, so it encourages students to actually attend the class",pos,0.8284792192631353,0.17152078073686636
+student,728,The Bad:- Professors on tenure: It wasn't until I took a few classes with some professors on tenure that I noticed they were that small percentage of professors that don't really care about their students,pos,0.8047428094062666,0.19525719059373542
+student,728," Sure these are the professors students love to hang out with and grab a drink with, but they don't gain anything in the long-run",pos,0.6314431905772646,0.368556809422736
+student,728," Students will leave a class thinking they passed with flying colors and are experts only to realize next semester that isn't the case when they take the intermediate version of their class, which is what happened to me",pos,0.7355815199335568,0.2644184800664404
+student,728," No matter how many students pass or fail their class, they've secured a sweet deal for the rest of their career",pos,0.9381116327345825,0.06188836726541687
+student,728,"In terms of meals, first and second year students that live on campus are given a plan where their IDs are loaded with a certain amount of money they can spend at the Bookstore and on food",pos,0.9333663066670294,0.06663369333297307
+student,728," By the end of the school year, students are scrambling to spend every last cent because that money isn't refundable",pos,0.8302089555660987,0.16979104443390083
+student,728, The faculty in some departments don't get along well and it spills over into the students experience,pos,0.9308793205219769,0.06912067947802401
+student,728,"  So if you're from a high school with extremely down-to-earth and relaxed students, you think this is the norm",pos,0.7443298359790773,0.2556701640209233
+student,728," I believe that their push for social justice is also a great, great thing that all schools need to relay to their students",pos,0.9170964079596956,0.08290359204030442
+student,728,"In addition, the surrounding city is just incredible and full of opportunities that most college students and graduates would never have",pos,0.6176156632823723,0.38238433671762556
+student,728, I LOVE USF!! Small campus but it is really beautiful! The professors are really nice and care about students,pos,0.8396143836079871,0.160385616392014
+student,728, Students are friendly and helpful,pos,0.6790464290794715,0.3209535709205276
+student,728," I will recommend senior high school students to try this school!!
+
+57",pos,0.8443948830489016,0.15560511695109797
+student,728,"  I absolutely am impressed and am particularly grateful that there are also options for stipend for tuition expenses by being a teaching assistant as I've always wanted to teach business for potential students in a more socially-minded, critical-thinking manner",neg,0.29828478502048017,0.7017152149795168
+student,728,"  In addition, whereas in June 2009 at USF's campus (think it was Lone Mountain one but forget) I got to meet faculty & students in a warm, inviting way, at USF's Downtown campus open houses at Howard Street the tone is different now: You meet mainly admissions advisers, financial aid advisers and some students but no faculty and really no chance to network or follow up and hear more on the program",pos,0.9982905664067089,0.0017094335932953271
+student,728,"  In addition, whereas in June 2009 at USF's campus (think it was Lone Mountain one but forget) I got to meet faculty & students in a warm, inviting way, at USF's Downtown campus open houses at Howard Street the tone is different now: You meet mainly admissions advisers, financial aid advisers and some students but no faculty and really no chance to network or follow up and hear more on the program",pos,0.9982905664067089,0.0017094335932953271
+student,728,  The latter one I attended made me feel faculty and students really do want to welcome attendees and I certainly felt it was a warm environment,pos,0.944929170960492,0.05507082903950651
+student,728, otherwise the cool international population of students makes up for the twats,pos,0.6040174533460927,0.3959825466539081
+student,728, As an English major we read books that are targeted to highschool students,pos,0.8649250287361739,0.1350749712638238
+student,728, except that in each class I've had here in 4 years there's been AT LEAST 3-4 students with a HS GPA of 2,pos,0.60625192793079,0.39374807206920936
+student,728,THIS IS NOT A SCHOOL FOR SERIOUS STUDENTS,pos,0.6225350016333278,0.37746499836667274
+student,728," It is scary, but I prefer it to taking a lot of theory classes, and then doing student teaching, and then finally start to get paid",pos,0.5600595558902796,0.43994044410972033
+student,728," Lacks a collegial community feeling (a decent percentage of students are commuters, there's no dominant sports team)2",neg,0.28562272457322835,0.714377275426771
+student,728," Some of the students are subpar (this is calculus and you don't know what PEMDAS is?)In sum, I enjoyed my time here and I highly recommend it",pos,0.7717813309130973,0.22821866908690086
+student,728, and now second-year students and beyond are being (and have been) pushed out to the SF city for housing because of lack of space,pos,0.9149081742792422,0.08509182572075835
+student,728, As an incoming freshman I was not notified about problems with my financial aid as other institutions may do for their NEW students,pos,0.888936180553875,0.11106381944612274
+student,728, Their dorm cafeteria is so nice and modern! I didn't try the food but it looked good! The church is breathless! just beautiful! I'm not a student just a prospective student so I can't tell you about the faculty there,neg,0.2375803253497839,0.7624196746502114
+student,728, Their dorm cafeteria is so nice and modern! I didn't try the food but it looked good! The church is breathless! just beautiful! I'm not a student just a prospective student so I can't tell you about the faculty there,neg,0.2375803253497839,0.7624196746502114
+student,728,  The tour guide told us that class sizes are only about 29 students for core classes,pos,0.8880642403640888,0.11193575963591355
+student,728,  I asked some student around the campus how they felt about going there; everyone I talked to seemed sincerly happy,pos,0.6656550609370074,0.3343449390629906
+student,728," You have your hippie rich kids who pretend that they don't come from money by not taking showers and banging on drums on the grass, you have the rich international students that come to class with a new balenciaga bag every week, you have your douche bag rich boys driving around in their lambos and ferraris (parking them in the handicap spaces of course), and you have your rich kids who boost about their wordly travels and immense wealth whenever they get a chance",pos,0.9993775135843392,0.0006224864156621346
+student,728, You basically live in an oasis as compared to 99% of college students,pos,0.9000728316568898,0.09992716834311106
+student,728," I can see that these reviews represent the same assortment of students I recall from my college days:  the serious-minded, the enthusiastic, and the hopelessly-unhappy-no-matter-what-they're-doing",pos,0.9092556740024202,0.0907443259975812
+student,728,"  I remember those types from my student days:  everybody avoided them, leaving them friendless and forlorn ",pos,0.9378968075382381,0.062103192461762095
+student,728,"  But many students still fail the exam, there is a huge disconnect to that promise",neg,0.2353695740818756,0.7646304259181246
+student,728," For about $45,000 a year, an eager student should not deserve professors who hardly put in any effort to teach a stimulating class",pos,0.9300704247965035,0.06992957520349505
+student,728, Many students simply take easy classes to make a quick A from professors who hardly care about the importance of true pedagogy,pos,0.8916704884789829,0.10832951152101539
+student,728, The most recent of cases: the sale of KUSF for about $1 million (a student run public radio service to enhance the experience of media studies and musical interest),pos,0.9990437498224712,0.0009562501775264033
+student,728,Here are some key points as to why I love USF:Small Class Sizes: Screw those 300 student per class schools,pos,0.9638309882241923,0.03616901177580924
+student,728," Student Body: Okay yes we've heard it  before, USF = University of Spoiled Foreigners",neg,0.4762878061481884,0.5237121938518111
+student,728,"  I don't disagree, we have many students that came to the school with a lot of money from their parents",pos,0.8294859198241676,0.17051408017583183
+student,728,"  Though some of these students have not been exposed to any ""real world"" experiences as some may say, they are not socially isolated either",pos,0.9592236555364977,0.04077634446350002
+student,728,"Koret Gym: The student body and faculty have access to USF's Koret facility, a very large and well appointed private gym",pos,0.8390267697106553,0.16097323028934554
+student,728,"  As a business student, we are not only taught how to achieve the highest number on the bottom line, but equally as important we are reminded and encouraged to make ethical decisions",pos,0.9767050924334496,0.023294907566547188
+student,728, Forward Thinking: USF is one of the first and top ranked schools to offer entrepreneurship as a major for business students,neg,0.2669373627884784,0.7330626372115234
+student,728,"  Unlike the rest of the business majors which teach you how to be a gear or cog in a large corporate machine, this unique major guides students through the process of conceiving, planning and running a successful business of their own",pos,0.9932674809969749,0.006732519003027976
+student,728,"  Professors engage students in semester-long projects that rarely, if ever, feel like class work",pos,0.8001584061474686,0.19984159385253225
+student,728, You can get a lot out of this school if you work hard and become a good student,pos,0.6114656807217882,0.3885343192782115
+student,728, This is not the school for an older student! This school could never figure out I was not going to live in the dorms and my parents were not paying for my education,pos,0.5774593521530325,0.4225406478469659
+student,728," I should have done more research on how they handled older students, but I knew many had transfered to their nursing program with no problems",neg,0.23186075030120837,0.7681392496987943
+student,728," I found out I took three of the wrong classes right before my graduation! My advisor did not understand I was a transfer student, so I wasted my first year at this school taking classes I had already taken at my jc",pos,0.8805580991795141,0.11944190082048893
+student,728," Yes, there is a reason that people call it the University of Spoiled Foreigners, U Spend a Fortune, University of Serious Finances, University of Students from Fortunes, etc",neg,0.48201342851990964,0.5179865714800915
+student,728,There are over 80 countries represented in the student body,pos,0.7446234678934887,0.25537653210651035
+student,728,"  If you are a prospective student and take a walking tour of USF, I promise you, you will have one hell of a time electing not to go there",pos,0.5017245904574731,0.4982754095425247
+student,728,"This applies to my undergraduate experience:- USF is a mediocre private college- The majority of students are spoiled brats who think they are the shit- Only at USF, will you find a closed-minded gay professor- Many students are trying to live out what they couldn't do when they were going to their private high schools- USF is like another high school with immature people and cliques - Yes, some subtle racism exists at USFOh yeah, and thanks to some people, my dorm floor smelled like chicken and weed for most of the year",neg,0.3410343675235471,0.6589656324764598
+student,728,"This applies to my undergraduate experience:- USF is a mediocre private college- The majority of students are spoiled brats who think they are the shit- Only at USF, will you find a closed-minded gay professor- Many students are trying to live out what they couldn't do when they were going to their private high schools- USF is like another high school with immature people and cliques - Yes, some subtle racism exists at USFOh yeah, and thanks to some people, my dorm floor smelled like chicken and weed for most of the year",neg,0.3410343675235471,0.6589656324764598
+student,728,  They are always upkeeping and changing making themselves better and offering the students more,pos,0.9384619313056406,0.06153806869435984
+student,728," Just got accepted here as a transfer student for fall 2011!
+
+90",pos,0.747914504840407,0.2520854951595923
+student,728,  The overwhelming unintelligent student body is incredibly unwelcoming and uninteresting,pos,0.590623993551483,0.40937600644851485
+student,728,"The faculty is lacking, the staff is unhelpful and well I just can't stress it enough how insanely typical this gross culmination of predominantly female students is",pos,0.5642232041849168,0.4357767958150802
+student,728,  I don't know how many times I have received emails notifying the student body of on campus crimes that have occurred,pos,0.9111888225388494,0.08881117746114923
+student,728, The Princeton Review claims that the student body at Univ SF is one of the most diverse in the country,pos,0.9504467753399755,0.049553224660023355
+student,728, The Jesuit environment and the small class size = students are not just a number in a lecture hall but recognized individuals,pos,0.8026790117577235,0.197320988242277
+student,728, I went to USF as a guest student for the fall of 2005 after my school in New Orleans cancelled the semester due to Hurricane Katrina,pos,0.9347454045667779,0.06525459543322651
+student,728,"  Also, none of the students I met seemed particularly jazzed about being there",neg,0.31193407587031274,0.6880659241296855
+student,728, The professors were also very inclined to having informal discussions with their students and there was a lot of inclusiveness,pos,0.9909036385878165,0.009096361412181736
+student,728," It's selective enough that you get a good mix of highly ambitious and easy going, lax students who are deceptively book smart",pos,0.9588771097816615,0.04112289021833798
+student,728," cafeteria food (no duh) as the food service has the monopoly, including the ""student runned"" Crossroads",neg,0.1563891679244703,0.8436108320755281
+student,728,"  As for the dormitories, ""comfortable"" in a loose sense; with 900+ freshmen/1100+ new students coming in makes things a bit tight",pos,0.7614393294893849,0.23856067051061486
+student,728,"  If a prospective student, take advantage of a campus tour courtesy of the Admissions office or the Open House events they hold during the academic year",pos,0.968300342207411,0.03169965779259053
+student,728, Some fellow students will be brilliant as well,pos,0.8695279945056942,0.13047200549430607
+student,728,"I transferred into the graphic design program my sophomore year, and despite all the bitching about USF's abandoning its partnership with neighboring art school CCA, I'm more than happy I participated in the budding cauldron of artists and artist egos, students and faculty alike",pos,0.9999146614945158,8.533850548153723e-05
+student,728," In general, students seem to complain a lot at USF",pos,0.8500530103009774,0.14994698969902298
+student,728," Students all over have a lot to complain about, but I find that education is what you make of it",pos,0.7765655064322928,0.2234344935677082
+student,728," STUDENT TYPES: Those hoping to become Mrs",pos,0.5945645976902671,0.40543540230973274
+student,728, Everyone here is so nice and helpful! Teachers actually beg students to visit them during office hours and tutors can be found in one place,pos,0.5642166208691907,0.43578337913081133
+student,728,) and if you don't want that you can go to the student run cafeteria or the cafe down stairs,neg,0.272441242175513,0.7275587578244845
+student,728," Students are always updated on crime bulletins, website updates, internet problems, basically anything via e-mail",neg,0.37301718732366934,0.626982812676332
+student,728, And I became president of the Society for Pre-Law Students,pos,0.9043681142986738,0.09563188570132602
+student,728," The gym is decent, but part of the four-star rating is that there is no steam room or sauna - what, are Catholics against such things??  Oh, interestingly, the only Catholic element I really see is the fact that the professor happens to be a Christian (or Catholic, I don't know) and a couple students in the class are actually ""brothers"" and by that I mean like junior priests, oh, and there is also a bit of an emphasis on ""go out there and do some good wtih your degree"" - which is part of the Jesuit philosophy, which is what this school subscribes to",pos,0.9743866510892594,0.025613348910734177
+student,728, generally very polite undergraduate students,pos,0.8372101923657983,0.16278980763420287
+student,728," Tuition much too high relative to lower quality of instruction, but nice small size of classes and better civility amongst students in graduate courses",pos,0.9983414548251399,0.0016585451748624724
+student,728, THe diversity of the student body also played a major role in shaping my college experience,pos,0.9762178122123031,0.02378218778769472
+student,728, USF provides this program with all the perks typically given to younger students who attend the actual campus by providing us a satellite campus that gives us the feeling of the university's feel and services,pos,0.9610824794725463,0.0389175205274487
+student,728, Financial Aid works with students to assist them in quick and very helpful ways,pos,0.8503736916428629,0.14962630835713514
+student,728," My graduate study experience at USF was amazing! The students, faculty, and university community contributed to enhancing my overall well-being as a clinical nurse leader",pos,0.9916591410575716,0.008340858942426166
+student,728, I cannot be sure students in other departments within the school had the same experiences as I did,pos,0.9488708474532455,0.051129152546752474
+student,728," Clinical sites may change spontaneously or the office is behind on a deadline, causing students to fall behind on paperwork as well",pos,0.6281189798707385,0.37188102012926405
+student,728, There seems to lack communication between faculty and students,pos,0.6185741112185873,0.381425888781412
+student,728, Students are sometimes blindsided by logistics we did not know we had to take care of personally,pos,0.7327439841922428,0.2672560158077563
+student,728, The clinical rotations were not arranged far enough in advance and some students were left to fend for themselves for clinicals,pos,0.5398395601701876,0.4601604398298126
+student,728, I will mention that our program was not the only one to have issues with clinical placements as there are far too many nursing programs in the San Francisco Bay Area and not enough hospitals to accommodate all the students in need of placement,neg,0.03858593652943216,0.9614140634705673
+student,728, A student has free range to study individually or in groups in all areas on campus at any time of day,pos,0.8056929374334775,0.19430706256652075
+student,728," As a student, you will need to be very flexible with change",neg,0.3293190949509322,0.6706809050490683
+student,728, Public Safety is always on the move at USF and they even offer a shuttle service for students to get home or back to campus safely at night,pos,0.8748357335293664,0.12516426647063097
+student,728,"
+
+Great for students who want a good place to succeed all while looking for a liberal place to learn",pos,0.9625727063463884,0.03742729365361191
+student,728,8+GPA student who has great extracurricular activities then you are in,pos,0.9189866520849569,0.08101334791504339
+student,728," Being a private university, they charge a lot more than other schools do, but they are pretty good at giving financial aid and have a lot of opportunities to help students pay for tuition",pos,0.7174568487849081,0.28254315121509266
+student,728, There are also a lot of events for prospective students and if it is possible you should definitely visit the campus,pos,0.9527886331394739,0.04721136686052469
+student,728,"
+
+USF is great for any student",pos,0.5973738365373303,0.40262616346266955
+student,728, There is something for everyone and for every type of student,pos,0.5675485683324833,0.4324514316675166
+student,728, Ask any student at USF about Lone Mountain and they will know exactly what you are talking about,pos,0.6093101277839988,0.3906898722160021
+student,728," USF may be expensive, but tuition is the same for in-state and out-of-state students",pos,0.634043656903429,0.3659563430965713
+student,728,"
+
+The campus usually has really cool events for students, but the campus life is not big like at other schools",pos,0.8618507523043764,0.13814924769562606
+student,728," Also, just because there are less students, doesn't mean it will be easier to connect with professors and other students if you don't put yourself out there",pos,0.7493233646847678,0.25067663531523143
+student,728," Also, just because there are less students, doesn't mean it will be easier to connect with professors and other students if you don't put yourself out there",pos,0.7493233646847678,0.25067663531523143
+student,728," The students and staff are super friendly, so don't be afraid to talk to them; especially at office hours",pos,0.8516139721559075,0.14838602784409463
+student,728,"
+
+When it comes to diversity, I would say USF is one of the most diverse campuses in both student body and teachers",pos,0.96124758040563,0.038752419594369966
+student,728, There is so much support from the staff and everything is so personal and targeted to benefit students,pos,0.842424694501457,0.1575753054985412
+student,728,"
+
+Class sizes are small with under 40 students in a typical four credit class",pos,0.9159382398166648,0.0840617601833357
+student,728, Be sure to apply for grants and scholarships and take advantage of the full listing of outside scholarships obtained by USF students in the past that the University of San Francisco has on their financial aid web page,pos,0.5825940097615617,0.41740599023843733
+student,728," Some students are passionate about their involvements, so you might get drawn to that type of dedication",pos,0.9552653276631665,0.04473467233683451
+student,728, Some students couldn't care less,pos,0.5426498146477671,0.45735018535223315
+student,728,"
+
+This school is great for independent students who want to do their own thing",pos,0.85425468143333,0.14574531856666983
+student,728, There's something for just about every kind of student,pos,0.5147322365797984,0.4852677634202009
+student,728," I've never heard of a student here who has had a full scholarship, unless you have an outside scholarship in addition to the merit scholarships at USF",neg,0.32734093346465915,0.6726590665353411
+student,728," It's harder these days because the student population is expanding beyond the size and number of dorms available, so this year there have been a lot of triple rooms for freshmen",pos,0.8624788274332948,0.13752117256670843
+student,728," University of San Francisco makes sure that Greek Life allows for students to be able to become excellent in academics, service, leadership, and social advancement
+
+Explore San Francisco by going to: Fisherman's Wharf, Golden Gate Bridge, Chinatown, Union Square, Coit Tower, Twin Peaks
+
+Do not ever lose your One Card identification card! Remember to bring laundry room necessities to keep your clothes and bedsheets clean and fresh! Attend your professors' office hours!
+
+University of San Francisco is very honorable of their tagline, Change the World from Here, where Here represents San Francisco and the students' minds and hearts",pos,0.9999985586067124,1.4413932874412351e-06
+student,728," University of San Francisco makes sure that Greek Life allows for students to be able to become excellent in academics, service, leadership, and social advancement
+
+Explore San Francisco by going to: Fisherman's Wharf, Golden Gate Bridge, Chinatown, Union Square, Coit Tower, Twin Peaks
+
+Do not ever lose your One Card identification card! Remember to bring laundry room necessities to keep your clothes and bedsheets clean and fresh! Attend your professors' office hours!
+
+University of San Francisco is very honorable of their tagline, Change the World from Here, where Here represents San Francisco and the students' minds and hearts",pos,0.9999985586067124,1.4413932874412351e-06
+student,728," Students from around the globe attend the University of San Francisco, so newfound culture is endless!
+
+156",pos,0.9387815081766545,0.061218491823346606
+student,728," You'll definitely be kept busy for all 4 years!
+
+Majority of the students do not find the food very appealing, but it is definitely edible, but pricey",pos,0.8218197805521418,0.17818021944785842
+student,728,"
+
+Didn't live in the dorms, but Loyola Village, which is an apartment arrangement with kitchen for 20 and over students",pos,0.7678203175625501,0.23217968243744921
+student,728," Love that the classes are around 20-30 students, ensuring that each student gets the attention and classroom learning experience needed",pos,0.9276297075148531,0.07237029248514747
+student,728," Love that the classes are around 20-30 students, ensuring that each student gets the attention and classroom learning experience needed",pos,0.9276297075148531,0.07237029248514747
+student,728," This, unfortunately, is the dominant factor with persuading potential students to stay away from this place",pos,0.7282096477798369,0.27179035222016207
+student,728, A lot of presentations are required of the student for their grade,neg,0.31664018806989525,0.6833598119301053
+student,728, The student handbook is mishmash of other professional psychology program handbooks and it does not favor the student at all,pos,0.7405193218248082,0.25948067817518977
+student,728, The student handbook is mishmash of other professional psychology program handbooks and it does not favor the student at all,pos,0.7405193218248082,0.25948067817518977
+student,728, Nearly all the students come from money of some sort,pos,0.5554728237036313,0.44452717629636906
+student,728," The PsyD program is a money mill that solicits to the student that wishes to negotiate, bargain, and perform the bare minimum for their highly paid degree",pos,0.8598351276929052,0.1401648723070983
+student,728," Sports!
+
+Outgoing, creative, students who want to get involved with more than just their studies",pos,0.9612549699000256,0.038745030099973155
+student,728, And there are lots of student oriented restaurants in the nearby neighborhoods,pos,0.975435956475622,0.024564043524379832
+student,728," In this community we were a group of 13 students and had 2 classes together both semester, focused on service-learning and fulfilling a lot of core requirements",pos,0.7178110453238231,0.28218895467617644
+student,728,"
+
+Get involved! USF provides so many opportunities for new and current students to get to know the campus, from retreats, living-learning communities, clubs, greek life to weekend outdoor adventures",pos,0.9900834254839559,0.009916574516039353
+student,728," Because of it's diverse community it is very easy for new students to find their niche,and relate to a lot of people",pos,0.9870048682714817,0.012995131728520523
+student,728,"
+
+San Francisco is full of stuff for students to do, see, and experience",pos,0.6996744367769254,0.30032556322307413
+student,728, There are plenty of requirements that must be completed on a student's downtime as well as in class,neg,0.4753939701380982,0.5246060298619017
+student,728, Always be jovial to other students: a personal life and social connections are needed in a big city such as this,pos,0.9908712704209457,0.00912872957905639
+student,728," Not only that, but most of the professors also want to see their students succeed",pos,0.7970132715415369,0.20298672845846383
+student,728, There is security around 24/7 and there are apps and phone numbers students can use/ call so that they will be escorted by a security guard whenever they don't feel safe,pos,0.8086553907808529,0.19134460921914767
+student,728, Most sororities and fraternities either center around service work or preparing students for future careers,pos,0.5250310710113312,0.4749689289886683
+student,728, There are many clubs at USF and I recommend for students to at least try any club that sounds interesting to them even by the smallest degree,pos,0.8215607289145026,0.178439271085497
+student,728,"
+
+USF is great for a variety of students, especially those who love the city of San Francisco itself",pos,0.9301191843048701,0.06988081569513226
+student,728, USF is a great place for students who are very artsy and explorative to students who want to live in a city with a great night life to students who are ready to embrace as many opportunities as they can to equip them for their future career,pos,0.9913410183915423,0.008658981608461052
+student,728, USF is a great place for students who are very artsy and explorative to students who want to live in a city with a great night life to students who are ready to embrace as many opportunities as they can to equip them for their future career,pos,0.9913410183915423,0.008658981608461052
+student,728, USF is a great place for students who are very artsy and explorative to students who want to live in a city with a great night life to students who are ready to embrace as many opportunities as they can to equip them for their future career,pos,0.9913410183915423,0.008658981608461052
+student,728," Many students spend their free time exploring Golden Gate Park, Haight & Ashbury beaches around San Francisco, Japan Town, the Castro District, and many other cool places",pos,0.9994544469375346,0.0005455530624621366
+student,728," USF provides food from Bon Appetite who are known for ethically preparing their food, however pickier students tend to get tired of the food quickly and find it overpriced",pos,0.6661277506258477,0.33387224937415505
+student,728," For the most part students are friendly, freshman dorms, are very close to academic buildings, and the USF security is always around to ensure students feel safe",pos,0.699833783383579,0.3001662166164212
+student,728," For the most part students are friendly, freshman dorms, are very close to academic buildings, and the USF security is always around to ensure students feel safe",pos,0.699833783383579,0.3001662166164212
+student,728, I noticed that professors learn students' names fairly quickly here and having those small class setting make approaching teachers easier,pos,0.8992284048064612,0.10077159519353601
+student,728, I recommend talking to current or students at USF to get a more realistic idea of student life at USF,pos,0.8704240858175507,0.12957591418244993
+student,728, I recommend talking to current or students at USF to get a more realistic idea of student life at USF,pos,0.8704240858175507,0.12957591418244993
+student,728, Students at USF adapt to their San Franciscan surroundings with friendly and mellow personalities,pos,0.9798331947659046,0.020166805234095544
+student,728, It is definitely easy to meet a lot of people at USF with its smaller class sizes and diverse array of students when you are willing to put the best foot forward,pos,0.9950504849119646,0.0049495150880301785
+student,728," Since USF is located in the middle of San Francisco (or just about) there are an innumerable amount of local restaurants that you can check out, some of which have the best food in the world!
+
+The are a number of dorms available to students with a majority of them being on campus",pos,0.9705918528767962,0.029408147123206295
+student,728, Finally they do have special apartment style dorms for students who are junior standing or above the age of 21,pos,0.9046602407122518,0.09533975928774974
+student,728, Since they have achieved so much and know it is possible they hold you to a very high standard as a student,pos,0.6477879864621706,0.35221201353782994
+student,728,"
+
+I recommend visiting the beautiful campus to see it for yourself and taking one of the student led tours (if you can ask for Meghan)",pos,0.974759880432574,0.025240119567424165
+student,728, If you would like a more personal or in depth analysis of certain aspects of the school I encourage you to stop a student and ask them if you can conduct a mini interview,pos,0.9382676992924828,0.061732300707518874
+student,728," The school offers a diverse amount of programs sure to fit the need of all their students, which draws a very diverse and unique student body",pos,0.974129860437664,0.025870139562338385
+student,728," The school offers a diverse amount of programs sure to fit the need of all their students, which draws a very diverse and unique student body",pos,0.974129860437664,0.025870139562338385
+student,728,"
+
+There is a large abundance of clubs that will satisfy the interest of any student",pos,0.7786490146444581,0.22135098535554082
+student,728," Most of these clubs hold on-campus events, such as Diwali Night held by Indian Student Organization",pos,0.8974869108098276,0.10251308919017166
+student,728," They are in charge of the concert every spring semester, Late Night at Crossroads â?? an event that occurs every first and third Thursday of the month and allows students to showcase their talents",neg,0.36030851580848916,0.6396914841915082
+student,728,"
+
+USF would be a great match for students who are looking for a small university for their studies",pos,0.9700096117793607,0.02999038822063846
+student,728, University of San Francisco is also a great option for prospective students who are looking to be inundated in culture and livelihood that only San Francisco can offer,pos,0.9880472215285282,0.011952778471473425
+student,728," At the end of every semester, students must meet with academic advisors in order to plan what classes to take the next semester",pos,0.7125285875921469,0.2874714124078533
+student,728, Flexi is money incorporated into your tuition that can only be used to buy food on campus and is mandatory for all on-campus students,pos,0.5771656965101012,0.422834303489898
+student,728," The company that provides all of the food on campus, Bon Appetite, has undergone lots of criticism from students",pos,0.9436505556364863,0.05634944436351288
+student,728, Many students believe that everything served is highly overpriced and the quality of the food is not satisfactory,neg,0.4437051818244377,0.5562948181755643
+student,728, Some students even claim Bon Appetite to be a monopoly and corrupted business,pos,0.8663372963000514,0.13366270369994965
+student,728," Although meals may be overpriced, the cafeteria does provide different options for their students every day",neg,0.18826558353394124,0.8117344164660598
+student,728,"
+
+Like any university, there will be difficult and easy courses depending on how determined the student is to earn a good grade",pos,0.8221844058440207,0.17781559415597717
+student,728," There are professors that grade incredibly difficult and hold high expectations for their students â?? in which I would suggest attending office hours for extra tutoring or making an appointment with the Learning Center, which also provides peer tutoring",pos,0.8806641106811441,0.11933588931885909
+student,728," The great thing about USF is the class sizes, in which there will be approximately 30 students to 1 professor (unless you are in a lecture hall where there might be up to 75 students)",neg,0.35442104994623624,0.6455789500537614
+student,728," The great thing about USF is the class sizes, in which there will be approximately 30 students to 1 professor (unless you are in a lecture hall where there might be up to 75 students)",neg,0.35442104994623624,0.6455789500537614
+student,728, The intimate class size allows professors to know their students and most will make the time to meet with their students if the student reaches out first,pos,0.9886870873462635,0.01131291265373782
+student,728, The intimate class size allows professors to know their students and most will make the time to meet with their students if the student reaches out first,pos,0.9886870873462635,0.01131291265373782
+student,728, The intimate class size allows professors to know their students and most will make the time to meet with their students if the student reaches out first,pos,0.9886870873462635,0.01131291265373782
+student,728," I have never encountered a professor that will not meet with their students if asked â?? there have been occurrences where appointments have been rescheduled, but never cancelled",pos,0.9107980114102753,0.08920198858972382
+student,728,"
+
+The first tip I would provide for prospective students is to visit the campus and come with questions when you visit",pos,0.9641200872038791,0.0358799127961196
+student,728," Although there are plenty of photos and reviews of the university online, a personal visit will allow better idea of the student life, class sizes, and the general vibe of the university",pos,0.9997708479947937,0.00022915200520848684
+student,728,"
+
+A wonderful school that encourages the students to change the world from here",pos,0.9794678888946919,0.020532111105308327
+student,728, Everyone wants students to be safe,pos,0.7168894324166679,0.2831105675833325
+student,728, Students can get walked over to their dorms or picked up from somewhere else if it's late at night,neg,0.34092228881188247,0.659077711188118
+student,728,"
+
+The school not only has an amazing view, but great professors to boot! The class sizes are small, which means that my professors can get to know students on a name-to-name basis",pos,0.969382502090697,0.030617497909300503
+student,728," During the day, we have a public safety shuttle available to transport disabled students to and from their destinations within a 6-block radius of our school",pos,0.9254371594511432,0.0745628405488571
+student,728," At 6pm, this shuttle is available to all USF students and may be accessed via cell",neg,0.3690889667228025,0.6309110332771999
+student,728,"
+
+USF is known for its outstanding Nursing and Architecture programs, however, I have discovered that there are many tools and programs available for students interested in arts",pos,0.9951330776922069,0.004866922307789199
+student,728,"
+
+Our schools has a fairly large number of students from Hawaii",pos,0.7919831326471132,0.2080168673528852
+student,728," Unlike many colleges, the student population and campus size is small enough to where you don't feel like one tiny fish a sea of unfamiliar faces",pos,0.9530267155292654,0.04697328447073535
+student,728," There is never a time you should feel unsafe at USF!
+
+There are trips that you can go on if you sign up in the Koret Recreational Center that are cheap for us students, that are on a budget",neg,0.13500322989609662,0.8649967701039044
+student,728," Students will not only receive a great education, but they will also be exposed to real life in a very diverse city",pos,0.9673275409856138,0.03267245901438679
+student,728," Also, being a smaller private school gives students more one on one time with staff, creating a more personal educational experience",pos,0.9991010753601637,0.0008989246398378224
+student,728,"
+
+I've never lived in the dorms, but from what I know, they are hard to get into!
+
+Academic rigor is very subjective, however, the library and local 24hr coffee shops are filled with USF students working hard no matter what time of day it is!
+
+There are many opportunities to join honor societies, research groups, and so on",pos,0.9922845603539542,0.00771543964604126
+student,728," If you can, pick up as many of these opportunities as possible then do it! It looks great for Grad School and jobs! Also, utilize the professors, your advisors tutors, student advisors, ect",neg,0.41931117606263124,0.5806888239373731
+student,728," Also, the professors are absolutely amazing and will go way above and beyond to help their students succeed",pos,0.9248232080351447,0.07517679196485365
+student,728," However, the Admissions and Records faculty, which are supposed to help with major questions about Financial Aid, Student Loans, Adding/Dropping classes, ect",pos,0.5019616509010602,0.49803834909893596
+student,728,"
+
+Greek life is growing, student leadership, club sports
+
+students who are outgoing, intelligent, independent thinkers",pos,0.9963587801398976,0.0036412198601047316
+student,728,"
+
+Greek life is growing, student leadership, club sports
+
+students who are outgoing, intelligent, independent thinkers",pos,0.9963587801398976,0.0036412198601047316
+student,728,"
+
+Go out in the city San Francisco
+
+It is important to be a well-rounded student, not just grades",pos,0.7193147061812313,0.2806852938187701
+student,728," From the African American Student Union to the Queer Alliance, you will find your niche here at USF",pos,0.9638900716049392,0.03610992839505836
+student,728,"
+
+It's great for students who want to be challenged, exposed to many different people, and who want to have an odd mix of hard schooling with hard fun",pos,0.7301176470473089,0.26988235295268925
+student,728, It's great for student's who just can't get enough of school and just love to get wild when homework is done,pos,0.5003350454462474,0.49966495455375204
+student,728," And to add, the only people that are allowed to marry in that church are students who graduated from the university and faculty",pos,0.6093977272148584,0.3906022727851429
+student,728," You pay for a free bus pass, a brand new gym which is free to students, awesome classes, and awesome staff that care about your future",pos,0.9095949454784028,0.09040505452159854
+student,728," San Francisco is a place for artists, activists, foodies, students, diversity, learning, and change",pos,0.9989686446593503,0.0010313553406519464
+student,728,"
+
+USF offers students a decent cafeteria with many options",neg,0.10817121217026958,0.8918287878297309
+student,728, The main Caf has the best options for students as it is the largest,pos,0.8173219249784883,0.18267807502151048
+student,728," Sometimes, however, students find that they school provided meals could be improved and that it way too expensive",pos,0.7956206573306059,0.20437934266939514
+student,728," USF gives each student $2000 worth of pure food money and sometimes, students find themselves running out of it a month before the semester ends",pos,0.8272442483905865,0.17275575160941167
+student,728," USF gives each student $2000 worth of pure food money and sometimes, students find themselves running out of it a month before the semester ends",pos,0.8272442483905865,0.17275575160941167
+student,728,"
+
+Academic rigor? USF sure has a lot of that! At USF, classes are challenging, difficult, and well designed to stretch student ability In general, classes are inspired, interesting, diverse, and fulfilling",pos,0.926640635149368,0.07335936485062801
+student,728," At any one point, students are spending at least 25 hours hitting the books",pos,0.5991195080822118,0.40088049191778724
+student,728," Let me sum it up: If you want to be challenged personally and academically, learn like you never learned before, be surrounded by students who have no problem debating with you, and want to have professor and faculty that will test you to the limits with no short cuts, USF is for you",pos,0.8356127464933881,0.16438725350661088
+student,728," From the students who go there to the classes that are offered, there are hardly any days that are the same",pos,0.539019115626225,0.4609808843737754
+student,728, All the students are very friendly and the professors are always eager to help,pos,0.9204709837009709,0.07952901629902996
+student,728, Public Safety patrols within a one-mile radius of campus and provides students with transportation during late hours,pos,0.9359904911894296,0.06400950881056956
+student,728, These students represent their organizations on and off campus and actively network with other Greek Life organizations in the Bay Area and beyond,pos,0.9961640502761756,0.0038359497238214827
+student,728,"
+
+USF hosts academic, social, and interest-based clubs and provides students with membership to dozens of national student organizations",pos,0.9851539679452997,0.014846032054703156
+student,728,"
+
+USF hosts academic, social, and interest-based clubs and provides students with membership to dozens of national student organizations",pos,0.9851539679452997,0.014846032054703156
+student,728," Through clubs and organizations, students can partake in on-campus activities, as well as attend conferences across the country and abroad",pos,0.98602094999969,0.013979050000313457
+student,728," The creation of new student organizations to accommodate the interests of all students is encouraged; however, the registration process requires patience",pos,0.9938823689674847,0.006117631032518392
+student,728," The creation of new student organizations to accommodate the interests of all students is encouraged; however, the registration process requires patience",pos,0.9938823689674847,0.006117631032518392
+student,728,"
+
+This is a dream school for self-driven students who are searching for immediate access to practical work experience and internship opportunities in San Francisco and beyond",pos,0.9787695603654736,0.021230439634528347
+student,728," USF successfully mixes modern with traditional, and has one of the most culturally and ethnically diverse student populations in the country",pos,0.9939472811010954,0.0060527188989066534
+student,728, The campus' location in the middle of San Francisco offers students breathtaking views of the entire Bay Area,pos,0.9864439200179195,0.013556079982079241
+student,728,"
+
+For the cost of attendance, USF provides students with excellent learning resources and leadership opportunities",pos,0.8249618932740638,0.17503810672593648
+student,728," Motivated students thrive at this university, and the faculty facilitate smaller-sized classrooms well",pos,0.9429158956800084,0.05708410431999016
+student,728," Traveling around the greater Bay Area is also relatively easy, with CalTrain or BART, and many students go to Oakland or San Jose for concerts and shows",pos,0.9961201316035306,0.003879868396467094
+student,728, Each hall is diverse and unique; co-ed floors/building and female-only options are available to students,pos,0.9520427654280484,0.047957234571950856
+student,728, I have loved living in Hayes-Healy Hall this year; the staff in each building train and work tirelessly to provide students with the highest degree of satisfaction with their residential experiences,pos,0.9987334286820202,0.0012665713179813311
+student,728,"
+
+USF lives up to its Jesuit mission by challenging students to dig deeper into their academics and be self-driven learners",pos,0.8989115952478989,0.10108840475210187
+student,728," Students should also take advantage of the opportunities offered by pursuing all of their interests through clubs, student organizations, and exploring San Francisco",pos,0.9737374576772526,0.0262625423227476
+student,728," Students should also take advantage of the opportunities offered by pursuing all of their interests through clubs, student organizations, and exploring San Francisco",pos,0.9737374576772526,0.0262625423227476
+student,728," This small, Jesuit institution is located in the middle of San Francisco; the campus is beautiful and we are a close-knit community of students",pos,0.9404231829905612,0.059576817009439786
+student,728," This university provides the best leadership development and educational opportunities to students who want to make the most of their college experiences, domestically and abroad",pos,0.9877601400928103,0.01223985990719339
+student,728,"
+
+Students who can appreciate the best of both worlds",pos,0.9277906639674074,0.07220933603259308
+student,728," You can travel all of San Francisco for free, just for being a student here!
+
+The San Francisco zoo, located about 15 minutes away, has free Resident days every month",pos,0.7958895438898096,0.2041104561101949
+student,728,"
+
+New York Strip Steaks anyone? USF also has an entire area of the cafeteria dedicated to the Vegan and Vegetarian student population",pos,0.619286430099139,0.3807135699008641
+student,728, Also be ready to engage in the community and with fellow students,pos,0.8131955573064221,0.1868044426935785
+student,728," It is small enough for students to know their professors, but big enough that there are always things going on and new people to meet",pos,0.7729293168678277,0.22707068313217293
+student,728," Students who enjoy being in a city environment but also like some time away, USF is in the perfect location where you can experience both of these environments",pos,0.9824925174028516,0.017507482597147708
+student,728, All the dorm building have card reader on the outside so only students who live in that building can get in and all guest must be checked in,neg,0.28414253742159834,0.7158574625783997
+student,728,"
+
+We have so many clubs , there is something for everyone
+
+All type of students, just because we are a private doesn't me we don't know how to party
+
+Lone Mountain has the most amazing views",pos,0.9883561000618023,0.011643899938195049
+student,728," here care about their students , a plus of going a small University, you really get to create a bond with them",pos,0.631643084122115,0.3683569158778871
+student,728, Students are on track and teachers are willing to help students during office hours,pos,0.635407288847137,0.3645927111528613
+student,728, Students are on track and teachers are willing to help students during office hours,pos,0.635407288847137,0.3645927111528613
+student,728, Public Safety monitor and keep watch of campus security and are there for students 24/7,pos,0.9363843450704744,0.06361565492952331
+student,728,"
+
+Touring and discovering the city you're in!
+
+Food at campus is not the best but the restaurants nearby are to 'die for' :P
+
+I was a transfer student, but the dorm seems very safe and close to campus to make your Introductory Life to College easy :P
+
+Depending on some courses and professors but most are very educational",pos,0.9998408322912413,0.0001591677087644234
+student,728, This university cares about each student and wants you to succeed,pos,0.6125843150686082,0.38741568493139106
+student,728," Outside of the school, students get to explore the wonderful city around them using our MUNI passes, which is included within our tuition",pos,0.9580421567115883,0.04195784328841202
+student,728," At the Market Cafe, one of the most busy and largest dining halls on campus, students gather together and share stories about their day while munching on healthy-but very delicious- food",pos,0.9955076215387012,0.004492378461298666
+student,728,"
+
+My resident advisors have provided each student with a plethora of opportunities to feeling right at home, including movie nights, ice cream socials, and floor meet and greets",pos,0.988677170259544,0.011322829740456229
+student,728," The space provided for students is within reason, as is the bathroom facilities",neg,0.4142070585073963,0.585792941492603
+student,728,"
+
+Although I have just gone through my first week as a college student, my teachers' approach to teaching are all similar in that they plan on challenging students, yet promise a rewarding journey",pos,0.9446566690050486,0.055343330994952276
+student,728,"
+
+Although I have just gone through my first week as a college student, my teachers' approach to teaching are all similar in that they plan on challenging students, yet promise a rewarding journey",pos,0.9446566690050486,0.055343330994952276
+student,728,"
+
+I advise that prospective students look at the college application essay topic at least a month and a half in advance in order to best approach the question at hand",neg,0.35291643973029124,0.6470835602697059
+student,728,"
+
+It is really expensive, but USF wants their students to get their education and are very willing to help out their students academically
+
+Explore San Francisco, attend events like concerts in San Francisco, go shopping in Union Square
+
+The cafeteria has been newly renovated, so it is beautiful and more modern in comparison to other schools",pos,0.989848725124506,0.010151274875492645
+student,728,"
+
+It is really expensive, but USF wants their students to get their education and are very willing to help out their students academically
+
+Explore San Francisco, attend events like concerts in San Francisco, go shopping in Union Square
+
+The cafeteria has been newly renovated, so it is beautiful and more modern in comparison to other schools",pos,0.989848725124506,0.010151274875492645
+student,728, This gives students a truly unique experience,pos,0.9166636490914543,0.08333635090854637
+student,728, Our largest class is never over sixty students,pos,0.7712312547582596,0.22876874524173973
+student,728, With small class sizes the professors expect a lot out of their students,pos,0.8744993163511898,0.12550068364881145
+student,728, They also care about the student's work and overall learning experience,pos,0.8917466678948144,0.1082533321051851
+student,728,"
+
+I would give USF an A- because it has so much to offer including education, student activities, location, however the size could be a bit larger",pos,0.7857321330684616,0.21426786693154076
+student,728, Students are notified via email of alerts,pos,0.9620675004607857,0.03793249953921281
+student,728," As a student, I am notified via our school email about all instances",pos,0.9404983041114758,0.059501695888524095
+student,728,"
+
+USF is more for mature and serious students",pos,0.8633203899526817,0.13667961004731843
+student,728," Of course students definitely have fun, don't expect to go to tons of house parties because you have to remember the school is right in the middle of the city so off campus apartments are not very big",pos,0.9859447230939075,0.014055276906092559
+student,728, USF has public safety staff that commit to our students' safety,pos,0.8466662111244422,0.15333378887555743
+student,728, There is a USF Club Connect and many involvement fairs that can help students find an activity that they are interested in,pos,0.9125401596507382,0.08745984034926309
+student,728, Our clubs and organizations also bring forth an opportunity to meet and grow closer with other students,pos,0.9610560005776508,0.038943999422350724
+student,728,"
+
+The dorm life at USF was a truly wonderful experience that I recommend to all students",pos,0.8575391027795393,0.1424608972204615
+student,728," USF 's dorms have several lounges within individual dorms where students play games, watch television, study, and participate in the dorm activities and events",pos,0.8128653327827305,0.18713466721727115
+student,728," The university is driven to provide students with courses that allows their talent, skills, and knowledge to thrive as well as be challenged",pos,0.9975891220196895,0.002410877980311444
+student,728," With smaller classes, professors individually encourage their students to work at their highest potential and students truly succeed because of this relationship",pos,0.8680304066334813,0.1319695933665232
+student,728," With smaller classes, professors individually encourage their students to work at their highest potential and students truly succeed because of this relationship",pos,0.8680304066334813,0.1319695933665232
+student,728, USF prides themselves in having a higher standard for their student's education that is also globally aware and socially beneficial,pos,0.9894091452641987,0.010590854735799904
+student,728," Also, as a student of this university you have San Francisco as your playground",pos,0.6325255387865563,0.3674744612134444
+student,728,"
+
+Great for urban students who care about social justice",pos,0.9014027954179502,0.09859720458204982
+student,728,"
+
+Go take a tour of the campus while students are attending class and ask then how they feel about the school",pos,0.9094540437427566,0.09054595625724123
+student,728,"
+
+USF is truley great for any type of student",pos,0.6027368782359294,0.3972631217640705
+student,728, Maybe not so much for a student looking for a big campus with a busy campus life,pos,0.574868821394038,0.42513117860596117
+student,728,"
+
+For some reason every first Friday and last Friday of each semester, student put washing detergent in the fountains causing them to foam up",neg,0.37980511108542725,0.6201948889145709
+student,728,"
+
+Join online (facebook) communities for incoming students, it will help you to make friends before you actually move in",pos,0.9936227180389691,0.006377281961028136
+student,728," Students also go to cities in the Bay Area because there are fairs, concerts and a lot of other schools to visit",pos,0.9851433851534617,0.014856614846536213
+student,728," A lot of classes use the city as a learning tool, something that helps students to be more involved with their surroundings",pos,0.995996248910724,0.004003751089276862
+student,728, A+! There's even some vans that drive around the campus area and beyond to pick up students who feel unsafe in certain areas and drive them back to their dorm,neg,0.4817976510208139,0.5182023489791898
+student,728," It's especially nice for students on Lone Mountain ;)
+
+I'm not involved in Greek Life personally, but it's definitely a thriving community! I have friends involved and they are constantly holding events and things which seems pretty fun",pos,0.999399754280675,0.0006002457193279745
+student,728," Also if you are a student here at USF, don't be afraid to get involved!
+
+The University of San Francisco has a beautiful campus with an excellent learning environment",pos,0.9746709777147409,0.02532902228526105
+student,728," Students and staff are very amiable making it easy to assimilate yourself in the USF environment, for not only is the campus wonderful but the city is also a great resource for students",pos,0.9518219846614389,0.048178015338561
+student,728," Students and staff are very amiable making it easy to assimilate yourself in the USF environment, for not only is the campus wonderful but the city is also a great resource for students",pos,0.9518219846614389,0.048178015338561
+student,728,"
+
+Great for students who are about diversity, equality, and on a mission to better the world!
+
+The cafeteria is a pretty big hang out, also right outside the bookstore they have a big fire place where there are couches and sofas that people hang out at as well",pos,0.9066882956426914,0.09331170435731295
+student,728, If your a psychology student you will spend a lot of time in K-hall,pos,0.5896021387603003,0.41039786123969896
+student,728,"And all students spend a decent amount of time in the library, atleast through my experience",pos,0.8568103589036304,0.14318964109637042
+student,728," It's an interesting experience, in a good way!
+
+It's a college cafeteria with a majority of its food made in the kitchen and is catering to a large amount of students, what do you expect? However, with its spring semester menu, the food has become a lot more enjoyable, and they are now carrying a larger variety of foods (hence the 4 stars)",pos,0.9056196613160545,0.09438033868394607
+student,728,"
+
+A smaller campus in a thriving city, the University of San Francisco is a great school with phenomenal staff, students, and classes",pos,0.9937282857839834,0.0062717142160158635
+student,728," Though the major choices are limited, the professors are dedicated to their work and to helping the students succeed",pos,0.9075062657807885,0.09249373421921338
+student,728, Try to explore the campus and mingle with students from different states and countries,pos,0.9843566790533423,0.015643320946659385
+student,728, USF gives students the means to understand and appreciate differing cultures and to contribute academically and professionally across the nation and the globe,pos,0.977403951889628,0.02259604811037174
+student,728,"
+
+There are tons of superstitious horror stories that students like to tell newcomers",pos,0.7528630967792733,0.24713690322072704
+student,728,"
+
+Like any other college student, I go out with my friends for fun, food, and laughter",neg,0.47149949699656696,0.5285005030034324
+student,728," but when the new science building is finished it will be amazing!
+
+i am a mostly-financial aid student and i really wish costs were even just $3,000 less per semester cause that would save me! but as far as a beautiful campus, breath-taking church (and i'm not religious), a super supportive staff, friendly students and overall awesomeness, it's pretty good",pos,0.9906897314408989,0.009310268559109014
+student,728," but when the new science building is finished it will be amazing!
+
+i am a mostly-financial aid student and i really wish costs were even just $3,000 less per semester cause that would save me! but as far as a beautiful campus, breath-taking church (and i'm not religious), a super supportive staff, friendly students and overall awesomeness, it's pretty good",pos,0.9906897314408989,0.009310268559109014
+student,728, teachers here love students who have strong opinions and who participate in discussions,pos,0.930308743701963,0.06969125629803835
+student,728," with interesting letters of recommendations from people who really know the type of person as well as the type of student you are, usf is more likely to overlook iffy scores and gpas",neg,0.44875293588325027,0.5512470641167472
+student,728, public safety does a very good job in making students feel safe 24/7,pos,0.9012826833046546,0.09871731669534524
+student,728, we have homecoming concerts when famous artists perform for the students,pos,0.821264162097832,0.17873583790216713
+student,728," students get together to explore the infinite amount of fun activities in the city, and the school provides students with trip opportunities (i",pos,0.907263484884114,0.09273651511588597
+student,728," students get together to explore the infinite amount of fun activities in the city, and the school provides students with trip opportunities (i",pos,0.907263484884114,0.09273651511588597
+student,728,"
+
+the professors make sure that you are on track with assignments because they care about what they are teaching, and about their students' learning",pos,0.8527086737369017,0.14729132626309616
+student,728," the majors are designed to provide a liberal arts education, while preparing students for the real world",pos,0.853685648758936,0.14631435124106273
+student,728,"
+
+The advice I would give prospective students is to value your education when looking for the right school",pos,0.663535099045651,0.33646490095434967
+student,728,"
+
+Being a single mother of two children I find that the Tuition is very high and the only way I am able to attend this school is through student loans",pos,0.9709595099025196,0.029040490097479124
+student,728," However, I am always looking for scholarships and grants to help with my student fees and expenses",pos,0.9902992973957839,0.009700702604216661
+student,728, The professors are very helpful and intuitive to each student and present the subjects well,neg,0.48274099119074704,0.5172590088092528
+student,728," Nursing, Business, Hospitality, Med students, Law, Arts",neg,0.07734152694412183,0.9226584730558769
+student,728," Open-minded, thoughtful, caring students who enjoy getting to know their teachers, their inner selves, other students, and participate or at least respect social justice movements",pos,0.9684419944188872,0.03155800558111571
+student,728," Open-minded, thoughtful, caring students who enjoy getting to know their teachers, their inner selves, other students, and participate or at least respect social justice movements",pos,0.9684419944188872,0.03155800558111571
+student,728," At USF and other small private universities the people who go through applications will be far more impressed with a student who turns in thoughtful, personal essays and meaningful, unique letters of recommendation than a person with pointless essays, dry letters of recommendation and good grades/SAT scores",pos,0.9836054402284333,0.01639455977156136
+student,728, I just wish I could use the left over money toward my student loans/paying for next school year rather than forcing myself to eat more,pos,0.7102852858103365,0.2897147141896622
+student,728," The teachers here love students who are involved, ask questions, and support social justice",pos,0.9132538147730892,0.0867461852269127
+student,728, This university is great for all types of students who are looking for something different in a great environment,pos,0.8645279395861443,0.13547206041385543
+student,728," It's a small campus, but students are always willing to go out",pos,0.8542904803516567,0.14570951964834247
+student,728, The class sizes range from 20-40 students and it is nice to get one on one education when you need it,pos,0.8955489289395658,0.10445107106043605
+student,728," Outgoing, Independent, Open-minded students",pos,0.917016405951927,0.08298359404807328
+student,728, Students are able to live in the center of the city and use the city as a learning tool,pos,0.9766737815577643,0.023326218442235203
+student,728," There are tons of internships, jobs, and activities in the city that are offered to students to further expand their knowledge and experience with any area of interest",pos,0.8702775837363635,0.12972241626363454
+student,728, I enjoy having courses cover topics that are interesting and help students learn how to apply the knowledge obtained in a class room to the real world,pos,0.9919275635565377,0.008072436443458814
+student,728, Classes are comfortable; not 300 student auditoriums,pos,0.7926560328448149,0.207343967155184
+student,728,"
+
+When you're visiting, make friends with a student at USF",pos,0.8026601015585706,0.19733989844142977
+student,728," I can't speak for everyone, but I am extremely passionate about my school and would jump at the opportunity to sit down with a prospective student to tell them all about my experience",pos,0.9361770671806611,0.06382293281933815
+student,728, I'd be happy to even give out my number or email address to keep in contact and even host a student overnight to get the full experience,pos,0.9721717711148958,0.02782822888510324
+student,728, They also make an effort to keep their course material relevant to your life as a student and global citizen,pos,0.8878221497290477,0.11217785027095348
+student,728, USF really tries to help students get out into the city,pos,0.556793826613533,0.44320617338646584
+student,728," It's a smaller private school but the people they accept, domestic & international students, are great people to get to know",pos,0.9719545148819605,0.02804548511803994
+student,728, USF definitely rewards its students,pos,0.7979460765966889,0.20205392340331083
+student,728, My teachers have done a great job with making sure that we as students know that they're there to answer our questions and help us succeed,pos,0.8103467532200593,0.18965324677994194
+student,728, I so much would like to attend as a Nursing student,neg,0.2772370294827561,0.7227629705172444
+student,728," This College is great for students, who want to acquire an education in a religious environment, and also for those who wish to live in the beautiful City of San Francisco",pos,0.9138181404572338,0.08618185954276097
+student,728,"
+
+The life that the University of San francisco extends to its students can assist me in incorporating good ethical changes in my lifestyle",pos,0.9832831606285628,0.016716839371439234
+student,728," If you are the type of student who enjoys the cold climate and reaching out to the community through events and activities, then USF is the campus to consider applying to",pos,0.9817897093052483,0.018210290694749585
+student,728,"
+
+As an interested student as well, I recommend going to as many meetings as possible",pos,0.609661467194676,0.3903385328053237
+student,728, I recommend talking to as many students that attend USF to get there prospective and tour around the campus to become familiar with the route,pos,0.9844224168212277,0.015577583178774189
+student,728,"
+
+I enjoy the climate of San Francisco,wearing the boots, coats, scarfs, and hats are so much fun! Including the activities USF has to offer for students, there are so many activities and clubs that are created and part of the campus",pos,0.999315865969805,0.0006841340301984844
+student,728,"
+
+Considering the fact that USF has different types of students from different areas, I feel strong to say that I will definitely learn a lot throughout ethnicity, religion, and culture",pos,0.9984489606413094,0.0015510393586913541
+student,728," They get to know you, and if you're a good student, like I am, they love talking to you and hearing your ideas",neg,0.421681754416808,0.578318245583192
+student,728," I hated living in the residence halls on campus because I hated sharing a room and I hated the idiocy of other students, who would get drunk off their asses and vomit in the hallways or vandalize or be loud/belligerent",neg,0.006883553021893367,0.9931164469781079
+student,728, The student to teacher ratio is approximately 14:1 and classes are no larger than 40 students,pos,0.8032426612513469,0.19675733874865428
+student,728, The student to teacher ratio is approximately 14:1 and classes are no larger than 40 students,pos,0.8032426612513469,0.19675733874865428
+student,728, Average class size is actually 15-25 students,pos,0.7935274553744947,0.20647254462550596
+student,728, Faculty and staff are accommodating with office hours should any student need extra help,pos,0.5361635497081048,0.46383645029189635
+student,728, The study abroad programs and immersion programs have some of the best opportunities for students to not only meet academic needs but also experience a different country while externalizing the Jesuit values established through classes,pos,0.9876874657242323,0.012312534275765877
+student,728,"  A lot of core course ""double dip"" in a sense so that students get credit for their major as well as for their core",neg,0.19506975378185626,0.8049302462181427
+student,728,"  This, in combination with the ability to get the classes that you want, when you want them, allows many students the freedom in their schedule to study abroad or graduate early",pos,0.9988107071990419,0.0011892928009578627
+student,728,  Class sizes at USF are typically around 25 students,pos,0.8705483204114978,0.12945167958850218
+student,728,  USF students are required to see their advisor each semester before they register to ensure that they are on track or see if they can study abroad/graduate early,pos,0.507161275609136,0.4928387243908615
+student,728,"
+
+San Francisco is one of the most amazing cities to be a college student in because of the opportunities for learning, experiencing cultures, socializing and professional development",pos,0.9301289567165436,0.06987104328345403
+student,728,"  Also, our campus is compact, so it is easy to navigate (students can get from class to class in 5-10 minutes) and there is a sense of community from the smaller population",pos,0.9823269778880002,0.017673022112000985
+student,728,"  The resources available to students are great - we have an amazing library with a 24-hour silent study area, a large gym free for student use, students receive a bus pass with tuition so they have free reign of the city, we have a welcoming Student Leadership and Engagement office, Gender and Sexualities Center and Intercultural Center, a Learning and Writing Center for tutoring and editing and a Career Services Center to help students find jobs and internships",pos,0.9974076346365995,0.002592365363399859
+student,728,"  The resources available to students are great - we have an amazing library with a 24-hour silent study area, a large gym free for student use, students receive a bus pass with tuition so they have free reign of the city, we have a welcoming Student Leadership and Engagement office, Gender and Sexualities Center and Intercultural Center, a Learning and Writing Center for tutoring and editing and a Career Services Center to help students find jobs and internships",pos,0.9974076346365995,0.002592365363399859
+student,728,"  The resources available to students are great - we have an amazing library with a 24-hour silent study area, a large gym free for student use, students receive a bus pass with tuition so they have free reign of the city, we have a welcoming Student Leadership and Engagement office, Gender and Sexualities Center and Intercultural Center, a Learning and Writing Center for tutoring and editing and a Career Services Center to help students find jobs and internships",pos,0.9974076346365995,0.002592365363399859
+student,728,"  The resources available to students are great - we have an amazing library with a 24-hour silent study area, a large gym free for student use, students receive a bus pass with tuition so they have free reign of the city, we have a welcoming Student Leadership and Engagement office, Gender and Sexualities Center and Intercultural Center, a Learning and Writing Center for tutoring and editing and a Career Services Center to help students find jobs and internships",pos,0.9974076346365995,0.002592365363399859
+student,728,"  The resources available to students are great - we have an amazing library with a 24-hour silent study area, a large gym free for student use, students receive a bus pass with tuition so they have free reign of the city, we have a welcoming Student Leadership and Engagement office, Gender and Sexualities Center and Intercultural Center, a Learning and Writing Center for tutoring and editing and a Career Services Center to help students find jobs and internships",pos,0.9974076346365995,0.002592365363399859
+student,728,  USF sincerely works to ensure every students success as evidenced in its resource centers and personalities of professors,pos,0.652827245267237,0.3471727547327658
+student,728,"  And, if a student wants something new, the city is always open!
+
+When I applied, the supplement for USF through the Common Application asked how we would relate to and promote the University's mission statement, which I found fairly unique in looking at other applications",pos,0.999082668642338,0.000917331357662398
+student,728,  A lot of emphasis is placed upon the essay since that is student's one time to be able to speak for themselves,pos,0.8536222195560813,0.146377780443919
+student,728, Advising is held every semester for all students,pos,0.7751981164465408,0.2248018835534596
+student,728," Classes are an average of 25 students, though most of mine were smaller",pos,0.7872022352466215,0.21279776475337925
+student,728," The other issue is that there are concerns that the administration does not always put students first, although this concern has been reduced in the past year through an improved effort on the part of the administration to communicate with students before making a decision",pos,0.5649688828171094,0.4350311171828861
+student,728," The other issue is that there are concerns that the administration does not always put students first, although this concern has been reduced in the past year through an improved effort on the part of the administration to communicate with students before making a decision",pos,0.5649688828171094,0.4350311171828861
+student,728, There was enough housing offered for students,pos,0.8611507331634459,0.13884926683655457
+student,728,It is located in a residential neighborhood where crime is low and safety is not a major concern for most students,pos,0.9488860848305252,0.051113915169476054
+student,728,"In general I was very happy at USF and I believe most students enjoy their experience, except the few downsides listed above",pos,0.9307199096695112,0.0692800903304867
+student,728, The community seems to appreciate students at USF,pos,0.8223612844560138,0.17763871554398603
+student,728, If you are a student that applies for early action there are opportunities for you to receive scholarship that could round to large amounts,neg,0.03968387939283881,0.9603161206071601
+student,728,class sizes - about 25:1 student:teacher proportion,pos,0.9708696846695166,0.029130315330484626
+student,728," study abroad opportunities - plenty workload - considered high (for nursing students compared to other majors)
+
+
+
+essay, recommendation letters and  application forms are neededearly decision is practiced common app is also used they provide financial aids and scholarship
+
+2
+
+2012
+
+246",pos,0.8518984486348042,0.14810155136518913
+student,728," Though for competitiveness I feel as if the school is very  diverse culturally, but  the students here are either very intellectual or oblivious to the world around them",pos,0.9370736124868886,0.06292638751311032
+student,728,LOTS of FINANCIAL AID available to 65%-80% of the students,pos,0.7735303726498618,0.22646962735013837
+student,728,Most students working on campus have Federal Work Study,pos,0.9260218244010029,0.07397817559899802
+student,728,"
+
+It was quite easy for me to live on a student's budget",pos,0.6175802830712611,0.3824197169287389
+student,728,"
+The BCA program requires its students to do an end of the year ""creative journal project""",pos,0.5384220665347696,0.4615779334652315
+student,728, This is a great way to capture what each student learned throughout the semester and to be able to present it in a unique and personal way,pos,0.9224030436388734,0.07759695636112775
+student,728," This book is really in honor of the many people whose faces who are not pictured…the people I have met on the buses (the hotel environmentalist Santiago, the guitarist, the teacher María, the proud mother and her newborn, the flirtatious high schooler, the bartender, just to name a few…), the people I pass everyday on the street but whose names I will still never know, the countless taxi drivers (some who have entertained me and those who have swindled me), the waiters and waitresses at restaurants I have discovered here (Nicholas from Romolo e Remo, you are beautiful and I will never forget you!), the little girl on the night bus on the way back from Cuenca, who quizzed Emiliano and I on how to translate the names of different body parts into English, the middle-aged couple that took walks in the park while I did my early morning runs, the students in my university classes, the hostel owners eager to give us lodging, the dogs I passed each morning on my way to the bus station, the Texan who loves old karate sitcoms and vegetarian food, the German passerbys trying to find some good waves in Canoa, the couple from Rio Muchacho and the coordinator Kevin whom we all adore, the artisan guitar/flute maker and his family, the community members from South Quito we spent an afternoon getting to know, the tour guides from our many BCA expeditions, the little kids who helped us build a fire one cold night on an andinismo trip, the members of the Mennonite church I met one Sunday morning, the Swiss mountaineer (an old friend of the ecuafamily), the friends of friends, the good the bad and the too soon to tell …all the people who I have encountered here but who can only remain in my memory",pos,0.9999999999998423,1.3023195858679536e-13
+student,728," However, although I feel that I personally learned more outside of the classroom, the University of San Francisco offers a wide variety of courses that accommodate students with varying levels of Spanish proficiency",pos,0.9968334131830311,0.0031665868169674966
+student,728," His connections with other organizations and people in Quito makes program excursions very unique and authentic, allowing students to have the fullest of cultural experiences",pos,0.9996389114517897,0.0003610885482083116
+student,728," Martha Perez, the assistant director, was essentially our step-in mom during the semester, who took care of any conflicts within our host family situations and was very attentive to all of the BCA students' needs",pos,0.9316965319409247,0.06830346805907345
+student,728," Lastly, Miguel Andres Guerra was our other assistant director, and was largely in charge of coordinating student internships and volunteer opportunities",pos,0.5176895246747455,0.4823104753252545
+student,728, He was an invaluable resource to the BCA students in this respect,pos,0.5018553096751556,0.49814469032484426
+student,728," Although not all of these hard-working individuals will be returning to the program site next year, you can be sure that their legacy will leave a very well organized program that will continue to give students an amazing study abroad experience",pos,0.9991378198509712,0.0008621801490289569
+student,728,"
+
+I loved my host-family! I lived with my ""ecuamom"" on the second floor of a house, but also enjoyed the company of my extended family who lived in the rest of the house (aunt/uncle, cousins and second cousins, another international student, and our two dogs!)",pos,0.9594655772285857,0.04053442277141721
+student,728," Lastly, the food prices in Ecuador are phenomenally low, making it an excellent option for college students on a budget",neg,0.2981483723712146,0.7018516276287845
+student,728," However, something I think that is most special about the BCA program is its commitment to the social and cultural integration of its students",pos,0.9602784851954077,0.0397215148045927
+student,728," BCA's health section of the pre-semester orientation was super helpful for the students (what foods to avoid, diarrhea is normal and even expected at the beginning, who to contact if you get sick or hurt, etc",pos,0.8922500389684026,0.10774996103160131
+student,728, There is a health clinic at the university that is available to students' needs,pos,0.6115915774214367,0.3884084225785629
+student,728," This clinic is also specially helpful for getting necessary shots for certain excursions (safe and far less expensive than in the States!), such as the yellow fever shot for students wishing to visit the Tiputini Biodiversity Station in the Amazon",pos,0.816141232992937,0.1838587670070602
+student,728," These risks, however, are minimalized thanks to a safety orientation with the BCA directors following students' arrival",pos,0.9917932767005594,0.008206723299442987
+student,728, Students are advised not to be out past 7PM in certain areas and are instructed upon how to ride public transportation and avoid petty theft/other violence,pos,0.5923041008706069,0.40769589912939697
+student,728," Due to the machismo present in Ecuador, female students are also given safety advice in regards to how to respond to catcalls and other uncomfortable situations",pos,0.9683177714666594,0.03168222853333857
+student,728,"
+Food safety should not be a serious concern for prospective students to the program, as host-families are specifically instructed how to prepare food/water so that it is safe for students to eat and drink",pos,0.8608333385146947,0.1391666614853025
+student,728,"
+Food safety should not be a serious concern for prospective students to the program, as host-families are specifically instructed how to prepare food/water so that it is safe for students to eat and drink",pos,0.8608333385146947,0.1391666614853025
+student,728,"
+
+It was very easy for me to live on a student's budget",pos,0.5784041073577258,0.4215958926422743
+student,728," You could have an awesome weekend trip for less than $30!
+The BCA program gives each student an allowance (comes out of tuition/program costs) at the beginning of each month",pos,0.8818447228767541,0.1181552771232436
+student,728," These are what the allowances are designated for, however students often find that they do not need all of the allowance to cover these expenses, and will often use the allowance for other personal costs (travel, souvenirs, etc",pos,0.9040774303609278,0.09592256963907378
+student,728," The BCA program also reimburses students for ""cultural experiences"" up to a certain amount (museums, concerts, a soccer game, etc",pos,0.9912917754703537,0.008708224529647784
+student,728,")
+
+The BCA program encourages its students to speak Spanish, especially through the opportunity offered to students to take a ""Spanish pledge""",pos,0.96951887404657,0.0304811259534294
+student,728,")
+
+The BCA program encourages its students to speak Spanish, especially through the opportunity offered to students to take a ""Spanish pledge""",pos,0.96951887404657,0.0304811259534294
+student,728, Fall semester students are also required to take a pre-semester Spanish and culture course for three weeks before beginning classes in August,pos,0.8727383147573413,0.12726168524265835
+student,728," There were other study abroad programs at my university, and students often complained about those, but I'm pretty sure everyone on my program was very content with it",pos,0.956057263822613,0.04394273617738889
+student,728,"
+I enrolled in 6 upper-division content courses (business, economics and anthropology) at the local university Universidad San Francisco de Quito (USFQ) with other Ecuadorian students, all in Spanish",pos,0.7192639221535254,0.28073607784647553
+student,728," Because most other BCA students on my program choose to take language courses with other foreigners, I had more of an intense academic experience",pos,0.997364380719504,0.0026356192804934497
+student,728," BCA does a great job at placing students with experienced host families who really are interested in forming relationships with their students, not just having a monetary exchange for lodging",pos,0.9921204468233604,0.007879553176642538
+student,728," BCA does a great job at placing students with experienced host families who really are interested in forming relationships with their students, not just having a monetary exchange for lodging",pos,0.9921204468233604,0.007879553176642538
+student,728, Only one student ended up changing families and BCA dealt with the issue extremely quickly and the student ended up very happy with her second family,pos,0.9445353592298426,0.05546464077015669
+student,728, Only one student ended up changing families and BCA dealt with the issue extremely quickly and the student ended up very happy with her second family,pos,0.9445353592298426,0.05546464077015669
+student,728," They were really great at accommodating this!!
+
+I learned a lot of Spanish, and because I took my classes exclusively with other Ecuadorians, I met a number of Ecuadorian students and felt like a member of the university",pos,0.9656311131098024,0.03436888689019544
+student,728, And I know I was probably much more integrated than other BCA students who weren't taking courses with Ecuadorians and who hung out much more often with the other foreign students,pos,0.9552117144800134,0.04478828551998569
+student,728, And I know I was probably much more integrated than other BCA students who weren't taking courses with Ecuadorians and who hung out much more often with the other foreign students,pos,0.9552117144800134,0.04478828551998569
+student,728,"
+
+I had no health issues personally, but based on other BCA students' experiences, I know BCA Quito is very responsive and professional about helping students when they have health issues",pos,0.9750606427608086,0.0249393572391937
+student,728,"
+
+I had no health issues personally, but based on other BCA students' experiences, I know BCA Quito is very responsive and professional about helping students when they have health issues",pos,0.9750606427608086,0.0249393572391937
+student,728," Many students were pickpocketed (my cellphone was taken from my pocket as I got on a crowed tram-bus), but we were warned about this at orientation and advised not to keep things in pockets",pos,0.5446981900881459,0.4553018099118505
+student,728, BCA advises its students about these things during orientation and gives a monthly transportation stipend so we don't skimp on getting taxis late at night,neg,0.331841030204621,0.6681589697953816
+student,728," However, many - almost everyone - students only spoke English among each other and I think this really lessened the amount of Spanish some people learned",pos,0.9165023004946298,0.08349769950537209
+student,728," yes
+The university itself cannot compare to Trinity in terms of the way classes are taught and what you as a student are expected to do, but the BCA program was fantastic",pos,0.9687550081499677,0.03124499185003325
+student,728," Cons: expensive city to live
+Pros: free tuition
+Assist university students enrolling, class selection and counsel students on payment of tuition options along with financial aid options",neg,0.25101598438810074,0.7489840156119012
+student,728," Cons: expensive city to live
+Pros: free tuition
+Assist university students enrolling, class selection and counsel students on payment of tuition options along with financial aid options",neg,0.25101598438810074,0.7489840156119012
+student,728,  Supervised student workers,neg,0.4370029627319509,0.5629970372680498
+student,728," food)
+Pros: Well educated and passionate faculity and students who truly want to Change the World from HERE!
+A place of employment where I can feel comfortable being my unique self",pos,0.9956827165568585,0.00431728344313745
+student,728,"  An environment where nurturing colleagues and students,  who are welcomed and cherished",pos,0.9452664598986357,0.05473354010136442
+student,728,"  Educating and supporting nursing students, as they take their first step into the ""real"" world of nursing",pos,0.6587998326067681,0.34120016739323017
+student,728,"
+USF is a great place to start for any student",pos,0.600517334598998,0.3994826654010021
+student,728," Many students should try to find on campus jobs, it is a great learning experience that prepares you for the real world",pos,0.9656978193920921,0.03430218060791002
+student,728," Cons: long hours, understaffed and inadequate operational funds
+Pros: students, colleagues, campus climate and benefits
+Typical days revolved around strengthening the educational climate for the K-12 population",pos,0.7874481287600716,0.21255187123992875
+student,728," The afternoons, weekends and summers were all about the students we served",neg,0.37430217443703817,0.6256978255629624
+student,728, Being with the students is the highlight of the job,pos,0.7052466022351951,0.294753397764805
+student,728," Helping them to prepare for college, open their eyes to the career possibilities in STEM and ultimately enrolled into college is the greatest feeling of accomplishment for students, staff and parents",pos,0.8830733575929469,0.11692664240705072
+student,728, My teaching position came hand-in-hand with my enrollment as a graduate student with the chemistry department,pos,0.7655808926412462,0.23441910735875185
+student,728,"The atmosphere is good, fellow students are great, and professors are helpful",pos,0.8251832836583864,0.1748167163416144
+student,728,"
+This being a position for college students, the ability to study while working was the best part of the job",pos,0.9415520404147089,0.058447959585291955
+student,728,The most enjoyable part was seeing my fellow students everyday,pos,0.9644912253668426,0.03550877463315844
+student,728,  Presumably they did some marketing research that indicated the location of the campus is a major selling point to prospective students,neg,0.11048279021822847,0.8895172097817694
+student,728, I think they must looking for out of state and international students,pos,0.6830346242279951,0.3169653757720045
+student,728," The views are absolutely incredible! I met some students and professors and administrators on my visits, and I was impressed with all of them",pos,0.9532669673342976,0.04673303266570267
+student,728," I did hear that a few students are not highly qualified, and some courses not particularly challenging",pos,0.9914231220743179,0.008576877925681584
+student,728," They have some large guaranteed scholarships with certain test scores + GPA, but they do not guarantee to meet financial need and are known to ""gap"" students",pos,0.856491900050676,0.14350809994931954
+student,728," 
+                            Yep! Here you go:
+
+""Are there merit scholarships? What are University Scholars?
+The University Scholars program is awarded to students who apply through Early Action (The Early Action application Deadline is November 15), who have a minimum grade point average of 3",pos,0.990473526173935,0.009526473826067578
+student,728," The University Scholars program pays $19,500 a year for eight semesters of undergraduate study, provided the student maintains at least a 3",pos,0.9992111710333985,0.0007888289665988732
+student,728," 
+                            I visited four times, and I asked that question of students, admissions reps, and faculty",pos,0.6496599249757405,0.35034007502426007
+student,728, They said about 50% of the students are Catholic,pos,0.525903493614622,0.47409650638537787
+student,728," (The students I talked to didn't happen to be Catholic, and they did not feel it was a problem",pos,0.5624956548036745,0.43750434519632553
+student,728, My former girlfriend was a student there and loved the education she received from the Jesuits,pos,0.7627644101181472,0.23723558988185298
+student,728,"
+
+I would imagine USF isn't one of the top Jesuit universities because the number of options available to California students",pos,0.7273684492780007,0.27263155072200135
+student,728," The school population is relatively small (I think it's <10,000 including grad students), which means class sizes probably are, too",pos,0.8400192839938432,0.15998071600615502
+student,728," i have heard complaints of the lack of student housing & that usf doesnt provide guaranteed housing for sophomores, only freshmen",pos,0.9898017725602786,0.010198227439723005
+student,728," 
+                            mukk, what exactly do you mean by ""lack of student housing""? Like, availability, or amenities? Maybe I can bust some myths for you",pos,0.9759440428746587,0.024055957125339852
+student,728," The housing brochure they sent me and their website only state ""All undergraduate students newly admitted for the Fall semester, with 40 or fewer academic credits are required to live on campus for their first two semesters",pos,0.8803662544841105,0.11963374551588674
+student,728,"
+
+You could try calling USF Student Housing and Residential Education (SHaRE) at 415-422-6824",pos,0.9915455787165224,0.008454421283475204
+student,728," 
+                    Hello!
+
+Can an alumni who was on the pre-med track at University of San Francisco tell me how they liked it there?
+
+Do you think USF helped support you and prepare you well for applying and getting into medical school?
+
+Is there anything special they have for pre-med students?
+
+Do they ""weed out"" students in the pre-med track who doesn't have a certain GPA?
+
+Currently I am stuck between Santa Clara University, University of San Francisco, and Mills College",pos,0.9726423031406155,0.027357696859378392
+student,728," 
+                    Hello!
+
+Can an alumni who was on the pre-med track at University of San Francisco tell me how they liked it there?
+
+Do you think USF helped support you and prepare you well for applying and getting into medical school?
+
+Is there anything special they have for pre-med students?
+
+Do they ""weed out"" students in the pre-med track who doesn't have a certain GPA?
+
+Currently I am stuck between Santa Clara University, University of San Francisco, and Mills College",pos,0.9726423031406155,0.027357696859378392
+student,728,"  Is it possible to do my generals, then apply to the program? Will I be caught up to speed my second year? Or?
+
+How easy is it to change your major you applied for after you completed your GE's?
+
+Also, I didn't receive as much financial aid as I needed, but was wondering if the education, location and professors were worth the cost?
+
+And what does it mean that their academic calendar is 4-1-4?  How many classes does a student usually take a semester?
+
+Thanks!                
+
+320",pos,0.996338967545499,0.003661032454496564
+student,728," 
+                            Not a current student, but I can answer some of your questions",pos,0.6103129769238487,0.38968702307615083
+student,728,"  They have an admitted student day coming up on 4/18, but they also offer smaller admitted student visits that give you a great chance to talk to lots of different departments, students, etc",pos,0.9876643826018524,0.012335617398142784
+student,728,"  They have an admitted student day coming up on 4/18, but they also offer smaller admitted student visits that give you a great chance to talk to lots of different departments, students, etc",pos,0.9876643826018524,0.012335617398142784
+student,728,"  They have an admitted student day coming up on 4/18, but they also offer smaller admitted student visits that give you a great chance to talk to lots of different departments, students, etc",pos,0.9876643826018524,0.012335617398142784
+student,728,"
+Good: Diversity in every way, including educational - you will find all kinds of students, from A+++ to B---",pos,0.9941410499025993,0.005858950097398784
+student,728," 
+                            good- location
+bad- student body does not reflect morals of the school
+bad- if you are a minority, contrary to what books and USF materials claim",pos,0.8748428498567351,0.12515715014326587
+student,728, It must be frustrating to see wide-eyed students and (lame) parents (like me) so excited,neg,0.33285917873932647,0.6671408212606723
+student,728," You also have some valid points - private schools are VERY expensive, USF is about 65% female (which is actually closer to a 3-1 ratio than 7-1, but I won't quibble) and prospective students should definitely investigate the negatives before making their decision",pos,0.9840960577207533,0.015903942279251054
+student,728," 
+                            Are you serious!??? All of your credits didn't transfer!???????? I am a currently a USF student attempting to transfer to USD",pos,0.6304560150804096,0.3695439849195915
+student,728," are u a current USF student?                        
+
+334",pos,0.5845108071342676,0.4154891928657328
+student,728," 
+                            Nope, an admitted student - so what do I know!! You could call the registrar at USD tomorrow and ask their opinion - they would give you much more accurate information than me",neg,0.44134048493802075,0.5586595150619817
+student,728, (There may have been other issues with the other student who had trouble transferring uni
